@@ -13,6 +13,9 @@ const Cart = (props) => {
       </ul>
     </Card>
   );
+// wednesday er moddhe finish korte hbe.
 };
 
 export default Cart;
+
+// bem
